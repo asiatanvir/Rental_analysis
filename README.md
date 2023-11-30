@@ -12,9 +12,11 @@ The main task in this Challenge was to visualize and analyze the real-estate dat
 
 * Build an interactive neighborhood map.
 
+Additionally, the sfo_neighborhoods_census_data.csv file and neighborhood_coordinates.csv were the resources to create DataFrame that were used in the analysis.
+
 ### Calculate and Plot the Housing Units per Year¶
 
-In this part numerical and visual aggregation was used to calculate the number of housing units per year, and then a bar chart was created to show results.
+In this part numerical and visual aggregation was used to calculate the number of housing units per year based upon sfo_neighborhoods_data. Bar chart was created to display results.
 
 
 ```
